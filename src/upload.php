@@ -10,4 +10,9 @@ class upload
     {
         echo 'v1' . PHP_EOL;
     }
+
+    public function two()
+    {
+        return 'v2';
+    }
 }
