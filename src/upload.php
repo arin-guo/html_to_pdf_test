@@ -15,4 +15,9 @@ class upload
     {
         return 'v2';
     }
+
+    public function three()
+    {
+        return 'v3';
+    }
 }
