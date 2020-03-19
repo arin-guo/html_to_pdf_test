@@ -20,4 +20,9 @@ class upload
     {
         return 'v3';
     }
+
+    public function four()
+    {
+        return 'v3';
+    }
 }
