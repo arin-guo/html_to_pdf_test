@@ -25,4 +25,10 @@ class upload
     {
         return 'v3';
     }
+
+    public function five()
+    {
+        return 'v3';
+    }
+
 }
